@@ -1,3 +1,9 @@
-body {
-  background-image: url("pp.png");
+h1 {
+  text-align: center;
+  width: 100%;
+}
+a{
+  text-align: center;
+  display: block;
+  width: 100%;
 }
